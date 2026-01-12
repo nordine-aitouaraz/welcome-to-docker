@@ -35,4 +35,9 @@ Cependant, pour que la modification soit visible, j'ai dû :
 Cela démontre que les conteneurs sont immuables : ils ne changent pas en temps réel si on modifie le code local (sans configuration de volumes).
 
 ![Modification validée](images/modif-success.png)```
+## 5. Publication sur Docker Hub
+J'ai tagué et publié mon image sur Docker Hub pour qu'elle soit accessible à ma promo.
+L'image est disponible ici : `TON_PSEUDO_DOCKERHUB/welcome-promo:v1`
+
+![Image sur Docker Hub](images/hub-success.png)
 ````
